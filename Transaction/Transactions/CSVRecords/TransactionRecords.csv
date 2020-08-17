@@ -1,0 +1,4 @@
+TransactionId,TransactionAmount,TransactionDescription,TransactionDate,TransactionStatus
+0,244,Sample for updates testing,2020-06-13,billed
+342,0,,,
+438,0,,,
